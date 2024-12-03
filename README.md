@@ -1,6 +1,6 @@
 # Desafío 03 - likeme
 
-## :computer: Para interactuar con el servidor app.js ejecutar:
+## :computer: Para interactuar con este proyecto deberás realizar estos pasos:
  
  ## Server (Backend)
 * npm i
