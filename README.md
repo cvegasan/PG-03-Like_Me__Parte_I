@@ -3,10 +3,10 @@
 ## :computer: Para interactuar con el servidor app.js ejecutar:
  
  ## Server (Backend)
-npm i
-npm install express pg cors body-parser
-node server.js para iniciar el servidor
+* npm i
+* npm install express pg cors body-parser
+* node server.js para iniciar el servidor
 
 ## Apoyo (Frontend)
-npm i
-npm run dev
+* npm i
+* npm run dev
